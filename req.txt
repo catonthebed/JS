@@ -1,0 +1,12 @@
+ Webpack (import/export)
+ Babel (из нового кода  преобразовывает в старый)
+ Scss
+ Eslint
+ 2 Modes
+ - Dev
+ Dev server, SourceMaps, Eslint, Not Minifide JS & CSS
+ - Prod
+   Monifide Code
+
+
+ Git
